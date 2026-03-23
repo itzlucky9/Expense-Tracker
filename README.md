@@ -1,16 +1,30 @@
-# expense_tracker
+# 💰 Expense Tracker App
 
-A new Flutter project.
+A simple and powerful Expense Tracker app built using Flutter to manage daily expenses and track spending.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Add expenses
+- Delete expenses
+- Track daily spending
+- Simple and clean UI
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Used
+- Flutter
+- Dart
+- (Hive / Sqflite - jo tu use kar raha hai)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+![expense-list](https://github.com/user-attachments/assets/708ea825-ca7c-4234-af98-7ede40171ff3)
+![expanse-history](https://github.com/user-attachments/assets/5e19175e-5985-47a6-b542-2ca8d8facf0d)
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/lokesh-kumar-saini-711512388
+
+
