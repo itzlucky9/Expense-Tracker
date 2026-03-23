@@ -15,7 +15,7 @@ A simple and powerful Expense Tracker app built using Flutter to manage daily ex
 ## 🛠️ Tech Used
 - Flutter
 - Dart
-- (Hive / Sqflite - jo tu use kar raha hai)
+- Sqflite
 
 ---
 <p align="center">
