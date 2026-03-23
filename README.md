@@ -18,9 +18,10 @@ A simple and powerful Expense Tracker app built using Flutter to manage daily ex
 - (Hive / Sqflite - jo tu use kar raha hai)
 
 ---
-
-![expense-list](https://github.com/user-attachments/assets/708ea825-ca7c-4234-af98-7ede40171ff3) ![expanse-history](https://github.com/user-attachments/assets/5e19175e-5985-47a6-b542-2ca8d8facf0d)
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/708ea825-ca7c-4234-af98-7ede40171ff3" width="250"/>
+<img src="https://github.com/user-attachments/assets/5e19175e-5985-47a6-b542-2ca8d8facf0d" width="250"/>
+</p>
 ---
 
 ## 🔗 Connect with me
