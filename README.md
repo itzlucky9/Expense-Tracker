@@ -19,8 +19,11 @@ A simple and powerful Expense Tracker app built using Flutter to manage daily ex
 
 ---
 <p align="center">
-<img src="https://github.com/user-attachments/assets/708ea825-ca7c-4234-af98-7ede40171ff3" width="250"/>
-<img src="https://github.com/user-attachments/assets/5e19175e-5985-47a6-b542-2ca8d8facf0d" width="250"/>
+<!-- <img src="https://github.com/user-attachments/assets/708ea825-ca7c-4234-af98-7ede40171ff3" width="250"/>
+<img src="https://github.com/user-attachments/assets/5e19175e-5985-47a6-b542-2ca8d8facf0d" width="250"/> -->
+
+<img width="1880" height="1002" alt="Screenshot 2026-06-26 163211" src="https://github.com/user-attachments/assets/48095592-824e-4640-9f96-9d5d901e5989" />
+
 </p>
 ---
 
